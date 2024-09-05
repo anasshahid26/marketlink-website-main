@@ -1,0 +1,9 @@
+version 1.1 ( updated 01-04-2013 )
+
+- Fixed portfolio page and mobile logo issues:
+	* functions.php
+	* style.css
+
+version 1.0
+
+- initial release
